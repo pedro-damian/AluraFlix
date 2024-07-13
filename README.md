@@ -17,11 +17,11 @@ Para instalar y ejecutar el proyecto localmente, sigue estos pasos:
 
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/tu-usuario/aluraflix.git
+    git clone git@github.com:pedro-damian/AluraFlix.git
     ```
 2. Navega al directorio del proyecto:
     ```sh
-    cd aluraflix
+    cd AluraFlix
     ```
 3. Instala las dependencias:
     ```sh
